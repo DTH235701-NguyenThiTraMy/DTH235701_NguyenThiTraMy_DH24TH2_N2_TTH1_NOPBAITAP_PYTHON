@@ -1,0 +1,6 @@
+print("=== Các kiểu dữ liệu cơ bản ===")
+print("int: số nguyên; float: số thực")
+print("comlex: số phức")
+print("str: chuỗi")
+print("bool; list, tuble, set, dict")
+print("===============================")
