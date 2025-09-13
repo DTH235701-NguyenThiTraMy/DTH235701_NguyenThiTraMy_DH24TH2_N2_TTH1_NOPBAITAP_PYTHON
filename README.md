@@ -47,6 +47,11 @@ Repo được sắp xếp theo từng chương để tiện theo dõi và thực
 📂 Thư mục: `chuong2/`  
 
 ---
+
+⚠️ Repo này có thể sẽ được cập nhật thêm bài tập & ví dụ minh họa trong quá trình học.
+
+---
+
 <p align="center">
   🙏 Cảm ơn thầy và các bạn đã theo dõi repo này. <br>
   ✨ Chúc mọi người học tập và làm việc hiệu quả! ✨
