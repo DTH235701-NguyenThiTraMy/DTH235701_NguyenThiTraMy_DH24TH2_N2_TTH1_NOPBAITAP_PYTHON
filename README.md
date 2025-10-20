@@ -14,20 +14,11 @@ Repo được sắp xếp theo từng chương để tiện theo dõi và thực
 
 ---
 
-## 📑 Mục lục
-- [Chương 1: Giới thiệu về lập trình Python và các công cụ lập trình](#chương-1-giới-thiệu-về-lập-trình-python-và-các-công-cụ-lập-trình)
-- [Chương 2: Các khái niệm cơ bản](#chương-2-các-khái-niệm-cơ-bản)
-- [Liên hệ](#liên-hệ)
-
----
-
 ## Chương 1: Giới thiệu về lập trình Python và các công cụ lập trình
 🔹 Nội dung chính:
 - Tải, cài đặt và kiểm tra phiên bản Python. Để tải Python ta vào: https://www.python.org/downloads  
 - Sử dụng công cụ chính thống IDLE để lập trình Python   
 - Cài đặt Python và các IDE (VS Code, PyCharm, Jupyter Notebook, Google Colab, …)    
-
-📂 Thư mục: `chuong1/`  
 
 ---
 
@@ -44,7 +35,35 @@ Repo được sắp xếp theo từng chương để tiện theo dõi và thực
 - Câu 9: Giải thích kết quả tính toán của các biểu thức
 - Câu 10: Hãy viết ngắn gọn lại các lệnh dưới đây  
 
-📂 Thư mục: `chuong2/`  
+---
+
+## Chương 3: CÁC BIỂU THỨC ĐIỀU KIỆN VÀ VÒNG LẶP
+🔹 Nội dung chính:
+- Gồm 19 câu.    
+
+---
+
+## Chương 4: HÀM TRONG PYTHON
+🔹 Nội dung chính:
+- Gồm 13 câu.    
+
+---
+
+## Chương 5: XỬ LÝ CHUỖI
+🔹 Nội dung chính:
+- Gồm 8 câu.    
+
+---
+
+## Chương 6: XỬ LÝ DANH SÁCH
+🔹 Nội dung chính:
+- Gồm 10 câu.    
+
+---
+
+## Chương 7: XỬ LÝ TẬP TIN
+🔹 Nội dung chính:
+- Gồm 13 câu.    
 
 ---
 
