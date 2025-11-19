@@ -67,6 +67,20 @@ Repo được sắp xếp theo từng chương để tiện theo dõi và thực
 
 ---
 
+## Chương 8: THIẾT KẾ GIAO DIỆN VỚI TKINTER 
+🔹 Nội dung chính:
+- Gồm 9 câu.    
+
+---
+
+## Chương 9: THƯ VIỆN HỖ TRỢ XỬ LÝ MACHINE LEARNING
+🔹 Nội dung chính:
+- numpy là một thư viện phổ biến giúp xử lý các phép toán liên quan đến các mảng nhiều chiều, hỗ trợ các hàm liên quan tới đại số tuyến tính…, Scikit-learn là một thư viện chứa đầy đủ các thuật toán Machine Learning.
+- Giải thuật Hồi Quy Tuyến Tính của thư viện Scikit-learn để dự báo cân nặng dựa vào chiều cao.
+- Gồm 1 câu.    
+
+---
+
 ⚠️ Repo này có thể sẽ được cập nhật thêm bài tập & ví dụ minh họa trong quá trình học.
 
 ---
